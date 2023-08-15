@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!--
 ![Sumanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sumanthkarnati&show_icons=true&include_all_commits=true&count_private=true&hide=prs&line_height=24&text_color=daf7dc&icon_color=bb2acf&title_color=a925ee&bg_color=191919)
 
 
@@ -17,7 +18,6 @@
 
 [![Commit Activity](https://emojicmt.herokuapp.com/?username=Sumanthkarnati&theme=pride)](https://github.com/Sumanthkarnati)
 
-<!--
 **Sumanthkarnati/Sumanthkarnati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
